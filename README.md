@@ -1,1 +1,1 @@
-# example-MLClassifier
+# AppCoda Tutorial Example Project
